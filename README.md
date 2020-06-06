@@ -1,2 +1,2 @@
 # Katsaris
-Authentic sounding piano transcriptions using ML
+Authentic sounding orchestral transcriptions for the piano using ML
